@@ -16,5 +16,9 @@
     "react": "^16.8.0",
     "react-dom": "^16.8.0"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^16.9.35",
+    "typescript": "^3.9.3"
+  }
 }
